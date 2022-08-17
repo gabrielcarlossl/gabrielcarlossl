@@ -1,5 +1,5 @@
 <div>
-  &#10148; I’m currently working on Fractal Tecnologia
+  &#10148; I’m currently working on Fractal Tecnologia as front end developer
 </div>
 
 <br/>
