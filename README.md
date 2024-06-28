@@ -24,5 +24,16 @@ const AboutMe: AboutMeType = (Name, Skills, EducationalBackground) => {
     console.log("Skills:", Skills.join(', '))
 }
 
-AboutMe('Gabriel Carlos', ['React', 'Typescript', 'Flutter', 'Node', 'AWS', 'Docker', 'Terraform'], 'Systems for Internet - UNIESP')
+AboutMe(
+'Gabriel Carlos',
+ [
+  'React',
+  'Typescript',
+  'Flutter',
+  'Node',
+  'AWS',
+  'Docker',
+  'Terraform'
+],
+'Systems for Internet - UNIESP')
 ```
