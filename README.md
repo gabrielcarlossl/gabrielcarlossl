@@ -29,6 +29,7 @@ AboutMe(
  [
   'React',
   'Typescript',
+  'Javascrip',
   'Flutter',
   'Node',
   'AWS',
