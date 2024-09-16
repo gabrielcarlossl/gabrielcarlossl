@@ -30,6 +30,7 @@ AboutMe(
   'React',
   'Typescript',
   'Javascrip',
+  'Ruby on Rails',
   'Flutter',
   'Node',
   'AWS',
