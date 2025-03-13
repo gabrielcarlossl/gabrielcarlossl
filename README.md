@@ -1,7 +1,4 @@
-<div>
-  &#10148;JR Front-end developer at Fractal Tecnologia
-</div>
-<br/>
+
 <!-- 
 <div>
   <a href="https://github.com/gabrielcarlossl">
