@@ -28,6 +28,7 @@ AboutMe(
   'Typescript',
   'Javascrip',
   'Ruby on Rails',
+  'Django'
   'Flutter',
   'Node',
   'AWS',
