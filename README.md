@@ -29,8 +29,7 @@ AboutMe(
   'Javascrip',
   'Ruby on Rails',
   'Django'
-  'Flutter',
-  'Node',
+  'Python',
   'AWS',
   'Docker',
   'Terraform'
